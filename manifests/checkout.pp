@@ -8,4 +8,4 @@ define git::checkout($path,
         user => $user,
         logoutput => "true",
     }
-}
+}i
